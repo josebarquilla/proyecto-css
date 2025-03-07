@@ -1,0 +1,14 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas iguales */
+    grid-template-rows: repeat(2, 1fr); /* 2 filas iguales */
+    gap: 10px; /* Espacio entre las celdas */
+  }
+  
+  .item {
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+  }
+  

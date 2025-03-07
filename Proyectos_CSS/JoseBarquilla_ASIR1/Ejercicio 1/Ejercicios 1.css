@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0; /* Puedes elegir el color que desees */
+  }
+  p {
+    color: blue;
+  }
+  h1 {
+    margin: 20px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  div {
+    border: 2px solid black;
+  }
+  <link rel="stylesheet" href="style.css">
